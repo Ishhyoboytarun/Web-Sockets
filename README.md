@@ -80,6 +80,7 @@ socket.onmessage = function(event) {
 
 You can customize the WebSocket behavior by modifying the Go code in `main.go`. Feel free to explore and experiment with different features and functionalities.
 
+
 ---
 
 Feel free to update the sections, add more details, or modify the README.md file according to your specific requirements and application.
